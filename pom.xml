@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>cc.mrbird</groupId>
-    <artifactId>FEBS-Shiro</artifactId>
+    <artifactId>scaffolding</artifactId>
     <version>2.0</version>
     <name>scaffolding</name>
     <description>scaffolding权限管理系统</description>
