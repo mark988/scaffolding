@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="cc.mrbird.febs.system.mapper.RoleMapper">
-    <resultMap id="roleMap" type="cc.mrbird.febs.system.entity.Role">
+<mapper namespace="com.myy.system.mapper.RoleMapper">
+    <resultMap id="roleMap" type="com.myy.system.entity.Role">
         <result column="ROLE_ID" jdbcType="DECIMAL" property="roleId" />
         <result column="ROLE_NAME" jdbcType="VARCHAR" property="roleName" />
         <result column="REMARK" jdbcType="VARCHAR" property="remark" />
@@ -20,7 +20,7 @@
             u.username = #{username}
     </select>
 
-    <select id="findRolePage" parameterType="role" resultType="role">
+    <select id="findRolePage" parameterType="com.myy.system.entity.Role" resultType="com.myy.system.entity.Role">
         SELECT
             r.role_id roleId,
             r.role_name roleName,

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="cc.mrbird.febs.job.mapper.JobMapper">
-    <select id="queryList" resultType="job">
+<mapper namespace="com.myy.job.mapper.JobMapper">
+    <select id="queryList" resultType="com.myy.job.entity.Job">
         select job_id          jobId,
                bean_name       beanName,
                method_name     methodName,

@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>cc.mrbird</groupId>
+    <groupId>com.myy</groupId>
     <artifactId>scaffolding</artifactId>
     <version>2.0</version>
     <name>scaffolding</name>
@@ -88,11 +88,12 @@
             <version>2.3.28</version>
         </dependency>
 
-        <!-- 控制台 SQL日志打印插件 -->
+        <!-- 跟踪数据库操作，查看程序运行过程中执行的sql语句
+             控制台 SQL日志打印插件 -->
         <dependency>
             <groupId>p6spy</groupId>
             <artifactId>p6spy</artifactId>
-            <version>3.8.1</version>
+            <version>3.8.5</version>
         </dependency>
 
         <!-- mysql驱动 -->
