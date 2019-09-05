@@ -5,9 +5,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @author MrBird
- */
+
 @Data
 @TableName("t_test")
 public class Test implements Serializable {

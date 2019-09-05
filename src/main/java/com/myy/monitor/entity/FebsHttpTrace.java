@@ -5,9 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.net.URI;
 
-/**
- * @author MrBird
- */
+
 @Data
 public class FebsHttpTrace implements Serializable {
 

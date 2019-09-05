@@ -19,7 +19,7 @@ import java.io.IOException;
  * 验证码工具类，重写 {@link com.wf.captcha.utils.CaptchaUtil}
  * 因为它没有提供修改验证码类型方法
  *
- * @author MrBird
+ * @author mark
  */
 @Slf4j
 public class CaptchaUtil {

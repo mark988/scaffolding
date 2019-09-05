@@ -6,7 +6,7 @@ import lombok.ToString;
 import java.io.Serializable;
 
 /**
- * @author MrBird
+ * @author mark
  */
 @Data
 @ToString

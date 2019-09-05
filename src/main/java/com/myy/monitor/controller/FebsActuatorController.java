@@ -22,9 +22,7 @@ import java.util.Map;
 
 import static com.myy.monitor.endpoint.FebsHttpTraceEndpoint.FebsHttpTraceDescriptor;
 
-/**
- * @author MrBird
- */
+
 @Slf4j
 @RestController
 @RequestMapping("febs/actuator")

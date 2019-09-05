@@ -4,9 +4,7 @@ import org.springframework.http.HttpStatus;
 
 import java.util.HashMap;
 
-/**
- * @author MrBird
- */
+
 public class FebsResponse extends HashMap<String, Object> {
 
     private static final long serialVersionUID = -8713837118340960775L;

@@ -15,9 +15,7 @@ import javax.validation.constraints.Size;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author MrBird
- */
+
 @Data
 @TableName("t_job")
 @Excel("定时任务信息表")

@@ -12,9 +12,7 @@ import java.util.*;
 import java.util.function.BiFunction;
 import java.util.stream.Collectors;
 
-/**
- * @author MrBird
- */
+
 @FebsEndPoint
 public class FebsMetricsEndpoint {
 

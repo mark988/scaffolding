@@ -6,7 +6,7 @@ import org.apache.shiro.session.SessionListener;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author MrBird
+ * @author mark
  */
 public class ShiroSessionListener implements SessionListener{
 

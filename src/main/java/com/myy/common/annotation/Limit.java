@@ -9,7 +9,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author MrBird
+ * @author mark
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

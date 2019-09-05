@@ -8,9 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author MrBird
- */
 @Data
 public class DeptTree<T> implements Serializable {
 

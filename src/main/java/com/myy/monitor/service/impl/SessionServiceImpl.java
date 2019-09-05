@@ -19,9 +19,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @author MrBird
- */
+
 @Service
 public class SessionServiceImpl implements ISessionService {
 

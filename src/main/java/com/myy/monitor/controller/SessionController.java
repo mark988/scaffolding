@@ -15,9 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author MrBird
- */
+
 @RestController
 @RequestMapping("session")
 public class SessionController {

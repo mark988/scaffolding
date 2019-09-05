@@ -3,7 +3,7 @@ package com.myy.generator.entity;
 /**
  * 代码生成常量
  *
- * @author MrBird
+ * @author mark
  */
 public class GeneratorConstant {
 

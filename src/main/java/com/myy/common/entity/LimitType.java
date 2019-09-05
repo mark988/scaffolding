@@ -1,7 +1,7 @@
 package com.myy.common.entity;
 
 /**
- * @author MrBird
+ * @author mark
  */
 public enum LimitType {
     /**

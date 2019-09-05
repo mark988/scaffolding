@@ -28,7 +28,7 @@ import java.util.*;
 /**
  * Shiro 配置类
  *
- * @author MrBird
+ * @author mark
  */
 @Configuration
 public class ShiroConfig {

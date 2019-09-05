@@ -1,1 +1,1 @@
- mvn clean package -T 1C -Dmaven.test.skip=true  -Dmaven.compile.fork=true
+ mvn clean package -T 2C -Dmaven.test.skip=true  -Dmaven.compile.fork=true

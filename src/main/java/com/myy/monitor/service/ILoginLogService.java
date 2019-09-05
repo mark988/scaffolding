@@ -9,9 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author MrBird
- */
+
 public interface ILoginLogService extends IService<LoginLog> {
 
     /**

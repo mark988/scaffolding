@@ -26,9 +26,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author MrBird
- */
+
 @Validated
 @RestController
 public class LoginController extends BaseController {

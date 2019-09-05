@@ -3,7 +3,6 @@ package com.myy.common.entity;
 /**
  * 常量
  *
- * @author MrBird
  */
 public class FebsConstant {
 

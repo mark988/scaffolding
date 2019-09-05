@@ -3,7 +3,7 @@ package com.myy.common.exception;
 /**
  * FEBS系统内部异常
  *
- * @author MrBird
+ * @author mark
  */
 public class FebsException extends Exception {
 

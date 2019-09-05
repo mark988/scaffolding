@@ -4,7 +4,7 @@ import com.myy.generator.entity.GeneratorConfig;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author MrBird
+ * @author mark
  */
 public interface GeneratorConfigMapper extends BaseMapper<GeneratorConfig> {
 

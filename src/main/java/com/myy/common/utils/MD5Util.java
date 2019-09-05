@@ -4,9 +4,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.shiro.crypto.hash.SimpleHash;
 import org.apache.shiro.util.ByteSource;
 
-/**
- * @author MrBird
- */
+
 public class MD5Util {
 
     protected MD5Util() {

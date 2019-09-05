@@ -7,7 +7,6 @@ import java.io.Serializable;
 /**
  * 在线用户
  *
- * @author MrBird
  */
 @Data
 public class ActiveUser implements Serializable {

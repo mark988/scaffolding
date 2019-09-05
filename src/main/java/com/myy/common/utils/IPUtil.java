@@ -2,9 +2,6 @@ package com.myy.common.utils;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @author MrBird
- */
 public class IPUtil {
 
 	private static final String UNKNOWN = "unknown";

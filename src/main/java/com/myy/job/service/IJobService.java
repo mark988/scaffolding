@@ -5,9 +5,7 @@ import com.myy.job.entity.Job;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.IService;
 
-/**
- * @author MrBird
- */
+
 public interface IJobService extends IService<Job> {
 
     Job findJob(Long jobId);

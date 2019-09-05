@@ -13,9 +13,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author MrBird
- */
+
 @Data
 @TableName("t_job_log")
 @Excel("调度日志信息表")

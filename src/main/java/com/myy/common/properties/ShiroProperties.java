@@ -2,9 +2,6 @@ package com.myy.common.properties;
 
 import lombok.Data;
 
-/**
- * @author MrBird
- */
 @Data
 public class ShiroProperties {
 

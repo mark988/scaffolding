@@ -6,9 +6,7 @@ import lombok.ToString;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author MrBird
- */
+
 @Data
 @ToString
 public class RedisInfo {

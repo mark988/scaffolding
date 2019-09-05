@@ -26,9 +26,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author MrBird
- */
+
 @Slf4j
 @Service("JobService")
 @Transactional(propagation = Propagation.SUPPORTS, readOnly = true, rollbackFor = Exception.class)

@@ -13,9 +13,7 @@ import org.springframework.stereotype.Component;
 
 import java.net.InetAddress;
 
-/**
- * @author MrBird
- */
+
 @Slf4j
 @Component
 public class FebsStartedUpRunner implements ApplicationRunner {

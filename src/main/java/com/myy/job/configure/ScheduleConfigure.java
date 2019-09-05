@@ -12,7 +12,7 @@ import java.util.Properties;
 /**
  * 定时任务配置
  *
- * @author MrBird
+ * @author mark
  */
 @Configuration
 public class ScheduleConfigure {

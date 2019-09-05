@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author MrBird
+ * @author mark
  */
 public interface GeneratorMapper {
 

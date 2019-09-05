@@ -3,7 +3,7 @@ package com.myy.generator.entity;
 import lombok.Data;
 
 /**
- * @author MrBird
+ * @author mark
  */
 @Data
 public class Column {

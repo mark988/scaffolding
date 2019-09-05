@@ -13,9 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * @author MrBird
- */
 @RestController
 @RequestMapping("redis")
 public class RedisController {

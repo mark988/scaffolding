@@ -9,9 +9,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.springframework.scheduling.annotation.Async;
 
-/**
- * @author MrBird
- */
+
 public interface ILogService extends IService<Log> {
 
     /**

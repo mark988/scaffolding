@@ -14,9 +14,7 @@ import javax.validation.constraints.Size;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author MrBird
- */
+
 @Data
 @TableName("t_dept")
 @Excel("部门信息表")

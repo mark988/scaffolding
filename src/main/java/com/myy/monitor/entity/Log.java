@@ -12,9 +12,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author MrBird
- */
+
 @Data
 @TableName("t_log")
 @Excel("系统日志表")

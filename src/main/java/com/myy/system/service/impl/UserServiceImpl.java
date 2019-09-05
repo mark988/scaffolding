@@ -28,9 +28,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author MrBird
- */
+
 @Service
 @Transactional(propagation = Propagation.SUPPORTS, readOnly = true, rollbackFor = Exception.class)
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IUserService {

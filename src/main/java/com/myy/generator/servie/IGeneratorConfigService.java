@@ -4,7 +4,7 @@ import com.myy.generator.entity.GeneratorConfig;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
- * @author MrBird
+ * @author mark
  */
 public interface IGeneratorConfigService extends IService<GeneratorConfig> {
 
